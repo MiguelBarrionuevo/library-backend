@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ms-auth
+
+server:
+  port: 8081
+
+logging:
+  level:
+    root: INFO
+    '[com.biblioteca]': DEBUG

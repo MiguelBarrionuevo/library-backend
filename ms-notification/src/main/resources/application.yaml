@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ms-notification
+
+server:
+  port: 8084
+
+logging:
+  level:
+    root: INFO
+    '[com.biblioteca]': DEBUG
